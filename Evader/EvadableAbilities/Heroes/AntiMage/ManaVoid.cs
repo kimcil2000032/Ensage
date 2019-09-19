@@ -6,7 +6,7 @@
 
     using static Data.AbilityNames;
 
-    internal class ManaVoid : LinearAOE
+    internal class Counterspell : LinearAOE
     {
         public ManaVoid(Ability ability)
             : base(ability)
