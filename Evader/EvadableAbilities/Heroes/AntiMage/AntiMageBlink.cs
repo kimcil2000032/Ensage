@@ -6,7 +6,7 @@
 
     using static Data.AbilityNames;
 
-    internal class AntiMageBlink : NoObstacleAbility
+    internal class AntiMageCounterspell : NoObstacleAbility
     {
         public AntiMageBlink(Ability ability)
             : base(ability)
